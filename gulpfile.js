@@ -17,6 +17,7 @@ var shortcutTitles = {
   'sticky': 'Waypoints Sticky Element Shortcut'
 }
 
+
 function fileHeader(title) {
   return [
     '/*!',
